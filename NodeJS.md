@@ -1,11 +1,14 @@
-# Reference : https://github.com/OWASP/NodeGoat
+# Install NodeJS on Kali linux (2020.1) - February 2020
+###### Reference : https://github.com/OWASP/NodeGoat
 
 
-Instructions
+- Make the current directory
 > mkdir InHere && cd InHere
 
+[ ] Clone the git repository
 > git clone https://github.com/OWASP/NodeGoat.git
 
+** Install npm**
 > apt install npm
 
 # npm install
