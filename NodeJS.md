@@ -5,12 +5,13 @@
 - Make the current directory
 > mkdir InHere && cd InHere
 
-[ ] Clone the git repository
+- [ ] Clone the git repository
 > git clone https://github.com/OWASP/NodeGoat.git
 
-** Install npm**
+**Install npm**
 > apt install npm
 
+1. isntall this thing again
 # npm install
 
 # npm auto fix        (npm audit)-> to check vulns?
