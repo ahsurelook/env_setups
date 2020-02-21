@@ -2,11 +2,11 @@
 
 
 Instructions
-'mkdir InHere && cd InHere'
+> mkdir InHere && cd InHere
 
-# git clone https://github.com/OWASP/NodeGoat.git
+> git clone https://github.com/OWASP/NodeGoat.git
 
-# apt install npm
+> apt install npm
 
 # npm install
 
