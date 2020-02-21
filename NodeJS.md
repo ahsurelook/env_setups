@@ -2,7 +2,7 @@
 
 
 Instructions
-# mkdir InHere && cd InHere
+'mkdir InHere && cd InHere'
 
 # git clone https://github.com/OWASP/NodeGoat.git
 
