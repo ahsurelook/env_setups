@@ -2,21 +2,21 @@
 ###### Reference : https://github.com/OWASP/NodeGoat
 
 
-- Make the current directory
+**Make the current directory**
 > mkdir InHere && cd InHere
 
-- [ ] Clone the git repository
+**Clone the git repository**
 > git clone https://github.com/OWASP/NodeGoat.git
 
 **Install npm**
 > apt install npm
 
-1. isntall this thing again
+**Install this thing again**
 # npm install
 
 # npm auto fix        (npm audit)-> to check vulns?
 
- install mongodb
+**install mongodb**
 # apt -y install gnupg2
 
 add to apt
